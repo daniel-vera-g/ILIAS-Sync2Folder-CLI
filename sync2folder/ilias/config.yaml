@@ -1,9 +1,9 @@
 connection:
   client: FH-Bielefeld
-  serverURI: https://nbl.fh-bielefeld.de/login.php?target=&amp;soap_pw=&amp;ext_uid=&amp;cookies=nocookies&amp;client_id=FH-Bielefeld&amp;lang=de
+  serverURI: https://ilias.hs-karlsruhe.de/login.php?target=&client_id=HSKA&auth_stat=
   user: 
   userId: 
-  wsdl: https://nbl.fh-bielefeld.de/webservice/soap/server.php?wsdl
+  wsdl: https://ilias.hs-karlsruhe.de/webservice/soap/server.php?wsdl
 courses:
 
 localDir:
